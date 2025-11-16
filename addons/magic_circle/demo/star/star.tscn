@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dfoc36yqf1jia"]
+
+[ext_resource type="Script" uid="uid://brjmsc5rum4vu" path="res://addons/magic_circle/demo/star/star.gd" id="1_sp8us"]
+
+[node name="Star" type="Node2D"]
+script = ExtResource("1_sp8us")

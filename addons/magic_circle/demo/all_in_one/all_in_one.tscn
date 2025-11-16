@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c6uw6hfualdcn"]
+
+[ext_resource type="Script" uid="uid://f5fb4u88g8jq" path="res://addons/magic_circle/demo/all_in_one/all_in_one.gd" id="1_vbddf"]
+
+[node name="AllInOne" type="Node2D"]
+script = ExtResource("1_vbddf")
