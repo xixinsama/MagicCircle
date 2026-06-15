@@ -1,0 +1,11 @@
+测试中，请慎重下载；
+一个封装好的全局单例，以提供类似 Tween 的链式 API 来创建和动画化各种基本形状；
+一个最简单的应用就是制作一个魔法阵，由此得名。
+beta version; please download with caution.
+A well-encapsulated global singleton to provide a Tween-like chained API for creating and animate various basic shapes. One of the simplest applications is creating a magic circle, hence the name.
+https://github.com/xixinsama/MagicCircle
+https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEIn_ZpGesxknULPhA7ZekXTGiF-dljgwACfTUAAiu40FRxU4u5gr3PQTYE.png
+https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEIn59pGeoxatHwEYNA_R851KfQzNtmEwACJjUAAiu40FRIbD8NzB6dfDYE.png
+36b361afbd302fc609b4a01b81d4761095a88d3ffaa938b4ee2ca761fafee822
+xixinsama
+114514@a
